@@ -1,0 +1,17 @@
+{
+  "best_model_name": "MobileNetV2",
+  "preprocessing": "mobilenetv2",
+  "img_size": [
+    224,
+    224
+  ],
+  "num_classes": 4,
+  "class_names": {
+    "0": "Glioma",
+    "1": "Meningioma",
+    "2": "No Tumor",
+    "3": "Pituitary"
+  },
+  "test_f1": 0.9092,
+  "test_accuracy": 0.9106
+}

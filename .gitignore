@@ -1,0 +1,56 @@
+# ── Dataset (do NOT commit MRI images to Git) ──────────────────────────────
+data/train/
+data/valid/
+data/test/
+data/train_raw/
+data/valid_raw/
+data/test_raw/
+
+# ── Trained model weights (large binary files) ─────────────────────────────
+# Uncomment the lines below if you do NOT want to track model files in Git.
+# models/*.keras
+# models/*.h5
+
+# ── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── Virtual environments ────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── Jupyter checkpoints ─────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── OS files ────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE files ───────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── TensorFlow / Keras logs ──────────────────────────────────────────────────
+logs/
+*.tfevents.*
+
+# ── Streamlit cache ──────────────────────────────────────────────────────────
+.streamlit/
+
+# ── Temporary / test files ───────────────────────────────────────────────────
+*.tmp
+*.bak

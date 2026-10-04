@@ -1,0 +1,12 @@
+Model: MobileNetV2
+============================================================
+              precision    recall  f1-score   support
+
+      Glioma     0.9277    0.9625    0.9448        80
+  Meningioma     0.8644    0.8095    0.8361        63
+    No Tumor     0.9545    0.8571    0.9032        49
+   Pituitary     0.9000    1.0000    0.9474        54
+
+    accuracy                         0.9106       246
+   macro avg     0.9117    0.9073    0.9079       246
+weighted avg     0.9108    0.9106    0.9092       246

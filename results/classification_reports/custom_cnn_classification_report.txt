@@ -1,0 +1,12 @@
+Model: Custom CNN
+============================================================
+              precision    recall  f1-score   support
+
+      Glioma     0.8667    0.6500    0.7429        80
+  Meningioma     0.3065    0.9048    0.4578        63
+    No Tumor     0.0000    0.0000    0.0000        49
+   Pituitary     0.0000    0.0000    0.0000        54
+
+    accuracy                         0.4431       246
+   macro avg     0.2933    0.3887    0.3002       246
+weighted avg     0.3603    0.4431    0.3588       246

@@ -1,0 +1,12 @@
+Model: EfficientNetB0
+============================================================
+              precision    recall  f1-score   support
+
+      Glioma     0.9342    0.8875    0.9103        80
+  Meningioma     0.7826    0.8571    0.8182        63
+    No Tumor     0.9535    0.8367    0.8913        49
+   Pituitary     0.9310    1.0000    0.9643        54
+
+    accuracy                         0.8943       246
+   macro avg     0.9003    0.8953    0.8960       246
+weighted avg     0.8985    0.8943    0.8948       246

@@ -1,0 +1,27 @@
+file,true_label,pred_label,confidence
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\glioma\Tr-gl_0016_jpg.rf.99746694ea97fe0b73108832b462d48e.jpg,Glioma,Meningioma,0.6695
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\glioma\Tr-gl_0032_jpg.rf.e1e485b4f909d84c8e24cd26e0ad3c08.jpg,Glioma,Meningioma,0.5427
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\glioma\Tr-gl_0042_jpg.rf.c825249fca17c0579976c6455ed0f64d.jpg,Glioma,Meningioma,0.5241
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\glioma\Tr-gl_0099_jpg.rf.049ca340ff9cdd5a1ccd2b6cc48cc4fc.jpg,Glioma,Meningioma,0.8345
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\glioma\Tr-gl_0101_jpg.rf.11f5cfff6b549f258a54d8c0c8fb3921.jpg,Glioma,Meningioma,0.5824
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\glioma\Tr-gl_0107_jpg.rf.99d300a7dac557a867ea2f33c1117108.jpg,Glioma,Meningioma,0.5919
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\glioma\Tr-gl_0226_jpg.rf.c82c827defa234bac8b7f134d1b980c3.jpg,Glioma,Meningioma,0.5987
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\glioma\Tr-gl_0417_jpg.rf.5b07d6e9a8546e45afebaf7bc2bda478.jpg,Glioma,Meningioma,0.5455
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\glioma\Tr-gl_0477_jpg.rf.872384cd21d72edc01f98205d08ec56b.jpg,Glioma,Meningioma,0.7825
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\meningioma\Tr-me_0084_jpg.rf.8da0909e5ac2b199b846a7b8a7ae18d0.jpg,Meningioma,Pituitary,0.5755
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\meningioma\Tr-me_0184_jpg.rf.c2d56ac3525725e509cfa81b034ee0e1.jpg,Meningioma,Glioma,0.9398
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\meningioma\Tr-me_0204_jpg.rf.d1fa4e262ca19e166d495e95940fca60.jpg,Meningioma,No Tumor,0.9141
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\meningioma\Tr-me_0219_jpg.rf.2eae832652a74f8747b52e2d8085a81b.jpg,Meningioma,Glioma,0.8384
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\meningioma\Tr-me_0269_jpg.rf.6b5995aa24f6172f4fc91d74510ab107.jpg,Meningioma,Pituitary,0.844
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\meningioma\Tr-me_0294_jpg.rf.516fb7db4b45f6bf8ef84dc0bbd6a2b7.jpg,Meningioma,Glioma,0.6441
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\meningioma\Tr-me_0360_jpg.rf.3e80d126bad9b02a024d354ea7ef55d6.jpg,Meningioma,No Tumor,0.985
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\meningioma\Tr-me_0490_jpg.rf.a68a12b6d92b4ca664b67d258b448753.jpg,Meningioma,Pituitary,0.5005
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\meningioma\Tr-me_0515_jpg.rf.0d94d96dae98ea725db2e7ae2a7085bd.jpg,Meningioma,Pituitary,0.734
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\no_tumor\Tr-no_0022_jpg.rf.450e5c79c994c8f3ccfd6e41b45147b6.jpg,No Tumor,Meningioma,0.5251
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\no_tumor\Tr-no_0091_jpg.rf.3d049f5d6d7b909d8192f3cfa4a2b39f.jpg,No Tumor,Glioma,0.9671
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\no_tumor\Tr-no_0108_jpg.rf.43faf021fc7d612544a9e52b4a5ae745.jpg,No Tumor,Meningioma,0.7777
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\no_tumor\Tr-no_0191_jpg.rf.0acd81d9a0b6a11b7b158f1269dabd02.jpg,No Tumor,Glioma,0.9974
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\no_tumor\Tr-no_0207_jpg.rf.c11cf70c91097ed667a38a5b6ba447b6.jpg,No Tumor,Meningioma,0.6032
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\no_tumor\Tr-no_0262_jpg.rf.66849b1fc907abea3e3349fd0980b445.jpg,No Tumor,Meningioma,0.8681
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\no_tumor\Tr-no_0354_jpg.rf.0ed513834d63efa327c86f216b573d4c.jpg,No Tumor,Meningioma,0.9601
+C:\Users\PAVAN\.gemini\antigravity\scratch\brain-tumor-mri-classification\data\test\no_tumor\Tr-no_0464_jpg.rf.db86209bd1b0cd3e758824d5bd49da27.jpg,No Tumor,Meningioma,0.7116
